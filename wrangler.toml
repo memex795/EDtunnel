@@ -1,11 +1,11 @@
-name = "dian"
+name = "memex"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "188.166.183.136:443"
-UUID = "40ca64a4-119c-4361-8b47-66fc6a3a0407"
+PROXYIP = "146.190.92.111:443"
+UUID = "40caff64-a42b-49cb-8b9d-e27fc33fec08"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
